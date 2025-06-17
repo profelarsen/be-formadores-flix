@@ -1,4 +1,11 @@
 body {
     background-color: black;
     color: blanchedalmond    ;
+
+font-family: "Cinzel", serif;
+
 }
+h1{font-size: 40 px;}
+header{font-size: 30 px;}
+p {font-size: 25 px;}
+
