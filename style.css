@@ -3,9 +3,19 @@ body {
     color: blanchedalmond    ;
 
 font-family: "Cinzel", serif;
+margin: 0px;
 
 }
-h1{font-size: 40 px;}
-header{font-size: 30 px;}
+h1{font-size: 40 px;
+    margin: 5px;
+
+}
+
+header{font-size: 30 px;
+    border-bottom: dashed 5px rgb(243, 116, 13);
+   padding: 25px;
+   color: blanchedalmond    ;
+   text-align: center;
+}
 p {font-size: 25 px;}
 
